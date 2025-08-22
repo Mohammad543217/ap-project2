@@ -1,0 +1,4 @@
+reservation_id,book_id,user_id,reservation_date,status
+301,101,201,2025-08-01,Active
+302,103,202,2025-08-03,Active
+303,105,201,2025-08-05,Completed

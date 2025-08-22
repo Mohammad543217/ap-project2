@@ -1,0 +1,9 @@
+book_id,title,author,category,publish_date,pages,status
+101,Programming in C++,Bjarne Stroustrup,TextBook,2013-05-12,1350,Available
+102,National Geographic,Various,Magazine,2025-06-01,80,Available
+103,Advanced Mathematics,James Stewart,TextBook,2020-09-15,1200,Borrowed
+104,Encyclopedia of Science,Various,ReferenceBook,2018-02-10,500,Available
+105,Modern Physics,Paul Tipler,TextBook,2016-04-05,980,Borrowed
+
+
+

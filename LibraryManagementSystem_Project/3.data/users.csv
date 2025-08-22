@@ -1,0 +1,8 @@
+user_id,name,role,max_borrow_days,max_books_borrowed
+1,Ali Mammadov,Regular,14,5
+2,Sara Ahmadi,Regular,14,5
+3,Reza Karimi,Librarian,30,50
+4,Maryam Hosseini,Regular,14,5
+
+
+
